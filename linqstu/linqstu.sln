@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqstu", "linqstu\linqstu.csproj", "{F15C010A-B814-409A-BF82-CA99C2F6A47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15C010A-B814-409A-BF82-CA99C2F6A47E}.Debug|x86.ActiveCfg = Debug|x86
+		{F15C010A-B814-409A-BF82-CA99C2F6A47E}.Debug|x86.Build.0 = Debug|x86
+		{F15C010A-B814-409A-BF82-CA99C2F6A47E}.Release|x86.ActiveCfg = Release|x86
+		{F15C010A-B814-409A-BF82-CA99C2F6A47E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = linqstu\linqstu.csproj
+	EndGlobalSection
+EndGlobal
